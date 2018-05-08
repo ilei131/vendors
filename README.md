@@ -32,7 +32,7 @@ iOS and Android vendors
 - App
 	* [iOSProject](https://github.com/NJHu/iOSProject)-Objc
 - Other
-  * [awesome-ios](https://github.com/vsouza/awesome-ios)
+  	* [awesome-ios](https://github.com/vsouza/awesome-ios)
 
 ###Android
 - UI
