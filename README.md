@@ -3,10 +3,10 @@ iOS and Android vendors
 
 iOS
 - UI
--[SDWebImage](https://github.com/rs/SDWebImage)-Objc
+	* [SDWebImage](https://github.com/rs/SDWebImage)-Objc
 - Network
--[PPNetworkHelper](https://github.com/jkpang/PPNetworkHelper)-Objc
+	* [PPNetworkHelper](https://github.com/jkpang/PPNetworkHelper)-Objc
 
 Android
 - UI
--[circular-progress-button](https://github.com/dmytrodanylyk/circular-progress-button)
+	* [circular-progress-button](https://github.com/dmytrodanylyk/circular-progress-button)
