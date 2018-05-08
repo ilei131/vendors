@@ -40,14 +40,14 @@ iOS and Android vendors
 	* [CircleProgress](https://github.com/lzyzsd/CircleProgress)
 	* [NineGridView](https://github.com/jeasonlzy/NineGridView)
 	* [material-dialogs](https://github.com/afollestad/material-dialogs)
-	* [QMUI_Android](https://github.com/QMUI/QMUI_Android)提高 Android UI 开发效率的 UI 库
-	* [smartTable](https://github.com/huangyanbin/smartTable)一款android自动生成表格框架
-	* [JDSelector](https://github.com/dunwen/JDSelector)仿京东的地址选择做的一个自定义深度的多级选择器
+	* [QMUI_Android](https://github.com/QMUI/QMUI_Android)(提高 Android UI 开发效率的 UI 库)
+	* [smartTable](https://github.com/huangyanbin/smartTable)(一款android自动生成表格框架)
+	* [JDSelector](https://github.com/dunwen/JDSelector)(仿京东的地址选择做的一个自定义深度的多级选择器)
 - Animations
 	* [AndroidAnimationExercise](https://github.com/REBOOTERS/AndroidAnimationExercise)
 - Media
 	* [JiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer)
-	* [ExoPlayer](https://github.com/google/ExoPlayer)An extensible media player for Android
+	* [ExoPlayer](https://github.com/google/ExoPlayer)(An extensible media player for Android)
 	* [android-UniversalMusicPlayer](https://github.com/googlesamples/android-UniversalMusicPlayer)
 - Tools
 	* [FileDownloader](https://github.com/lingochamp/FileDownloader)
