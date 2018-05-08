@@ -43,6 +43,7 @@ iOS and Android vendors
 	* [QMUI_Android](https://github.com/QMUI/QMUI_Android)(提高 Android UI 开发效率的 UI 库)
 	* [smartTable](https://github.com/huangyanbin/smartTable)(一款android自动生成表格框架)
 	* [JDSelector](https://github.com/dunwen/JDSelector)(仿京东的地址选择做的一个自定义深度的多级选择器)
+	* [PickTime](https://github.com/codbking/PickTime)(一个Android高效日期选择控件，支持（年月日时分星期）等多种模式的控件)
 - Animations
 	* [AndroidAnimationExercise](https://github.com/REBOOTERS/AndroidAnimationExercise)
 - Media
