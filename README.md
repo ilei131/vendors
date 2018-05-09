@@ -3,6 +3,8 @@ iOS and Android vendors
 
 ###iOS
 - UI
+	* [MBProgressHUD](https://github.com/jdg/MBProgressHUD)-Objc
+	* [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD)-Objc
 	* [Masonry](https://github.com/SnapKit/Masonry)-Objc
 	* [SDWebImage](https://github.com/rs/SDWebImage)-Objc
 	* [CDChatList](https://github.com/chdo002/CDChatList)-Objc
@@ -21,6 +23,7 @@ iOS and Android vendors
 	* [YTKNetwork](https://github.com/yuantiku/YTKNetwork)-Objc
 	* [GCDWebServer](https://github.com/swisspol/GCDWebServer)-Objc(Lightweight GCD based HTTP server for OS X & iOS (includes web based uploader & WebDAV server))
 - Tools
+	* [YYModel](https://github.com/ibireme/YYModel)-Objc(High performance model framework for iOS/OSX)
 	* [EncryptionTools](https://github.com/mddios/EncryptionTools)-Objc
 	* [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge)-Objc
 	* [SakuraKit](https://github.com/tingxins/SakuraKit)-Objc(a lightweight and powerful library for application to switching themes or skins)
