@@ -22,8 +22,11 @@ iOS and Android vendors
 	* [PPNetworkHelper](https://github.com/jkpang/PPNetworkHelper)-Objc
 	* [YTKNetwork](https://github.com/yuantiku/YTKNetwork)-Objc
 	* [GCDWebServer](https://github.com/swisspol/GCDWebServer)-Objc(Lightweight GCD based HTTP server for OS X & iOS (includes web based uploader & WebDAV server))
+- Media
+	* [AudioKit](https://github.com/AudioKit/AudioKit)-Swift(Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS)
 - Tools
 	* [YYModel](https://github.com/ibireme/YYModel)-Objc(High performance model framework for iOS/OSX)
+	* [JLRoutes](https://github.com/joeldev/JLRoutes)-Objc(URL routing library for iOS with a simple block-based API)
 	* [EncryptionTools](https://github.com/mddios/EncryptionTools)-Objc
 	* [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge)-Objc
 	* [SakuraKit](https://github.com/tingxins/SakuraKit)-Objc(a lightweight and powerful library for application to switching themes or skins)
@@ -34,6 +37,7 @@ iOS and Android vendors
 	* [YYCache](https://github.com/ibireme/YYCache)-Objc
 - App
 	* [iOSProject](https://github.com/NJHu/iOSProject)-Objc
+	* [TodayNews](https://github.com/hrscy/TodayNews)-Swift(Swift4 - 今日头条)
 - Other
   	* [awesome-ios](https://github.com/vsouza/awesome-ios)
 
@@ -59,3 +63,4 @@ iOS and Android vendors
 - App
 	* [jianshi](https://github.com/wingjay/jianshi) 
 	* [KotlinMvp](https://github.com/git-xuhao/KotlinMvp)-Kotlin(基于Kotlin+MVP+Retrofit+RxJava+Glide 等架构实现的短视频类的APP练手项目)
+	* [LifeHelper](https://github.com/yangchong211/LifeHelper)(综合案例训练，包含新闻，视频，图片，音乐，记事本等等模块)
