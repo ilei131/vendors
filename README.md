@@ -58,18 +58,33 @@ iOS and Android vendors
 	* [smartTable](https://github.com/huangyanbin/smartTable)(一款android自动生成表格框架)
 	* [JDSelector](https://github.com/dunwen/JDSelector)(仿京东的地址选择做的一个自定义深度的多级选择器)
 	* [PickTime](https://github.com/codbking/PickTime)(一个Android高效日期选择控件，支持（年月日时分星期）等多种模式的控件)
+	
 - Animations
+	
 	* [AndroidAnimationExercise](https://github.com/REBOOTERS/AndroidAnimationExercise)
+	
 - Media
 	* [JiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer)
 	* [ExoPlayer](https://github.com/google/ExoPlayer)(An extensible media player for Android)
 	* [android-UniversalMusicPlayer](https://github.com/googlesamples/android-UniversalMusicPlayer)
+	
 - Tools
 	* [FileDownloader](https://github.com/lingochamp/FileDownloader)
 	* [leakcanary](https://github.com/square/leakcanary)
+	
 - App
+	
 	* [jianshi](https://github.com/wingjay/jianshi) 
+	
 	* [LifeHelper](https://github.com/yangchong211/LifeHelper)(综合案例训练，包含新闻，视频，图片，音乐，记事本等等模块)
+	
 	* [JetpackMvvm](https://github.com/hegaojian/JetpackMvvm)-Kotlin(🐔🐔🐔一个Jetpack结合MVVM的快速开发框架，基于MVVM模式集成谷歌官方推荐的JetPack组件库：LiveData、ViewModel、Lifecycle组件 使用Kotlin语言，添加大量拓展函数，简化代码 加入Retorfit网络请求,协程，帮你简化各种操作，让你快速开发项目)
+	
 	* [KotlinMvp](https://github.com/git-xuhao/KotlinMvp)-Kotlin(基于Kotlin+MVP+Retrofit+RxJava+Glide 等架构实现的短视频类的APP练手项目)
+	
 	* [uamp](https://github.com/android/uamp)-Kotlin(A sample audio app for Android)
+	
+- Other
+	* [awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin) 
+	* [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
+	* [awesome-android](https://github.com/JStumpp/awesome-android)
